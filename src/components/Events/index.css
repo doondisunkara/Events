@@ -1,0 +1,27 @@
+.events-bg-container {
+  display: flex;
+  width: 100%;
+  min-height: 100%;
+}
+
+.events-container {
+  background-color: #323f4b;
+  padding: 30px;
+  width: 60%;
+}
+
+.main-heading {
+  color: #f8fafc;
+  font-family: 'Roboto';
+  font-size: 32px;
+  font-weight: 800;
+}
+
+.events-list-container {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  list-style-type: none;
+  padding-left: 0px;
+  width: 100%;
+}

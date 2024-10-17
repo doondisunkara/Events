@@ -1,0 +1,30 @@
+.event-item {
+  width: 400px;
+  margin-top: 20px;
+}
+
+.event-btn {
+  border: 0px solid;
+  border-radius: 8px;
+  cursor: pointer;
+  width: 400px;
+  padding: none;
+}
+
+.event-img {
+  width: 100%;
+}
+
+.event-name {
+  color: #f8fafc;
+  font-family: 'Roboto';
+  font-size: 28px;
+  font-weight: 800;
+}
+
+.event-location {
+  color: #64748b;
+  font-family: 'Roboto';
+  font-size: 18px;
+  font-weight: 500;
+}
